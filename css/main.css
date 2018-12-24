@@ -106,12 +106,18 @@ margin-top: 40px;
     position: absolute;
     top: 100px;
     left: 200px;
+    margin-bottom: 140px;
 }
 
 .fixed_image img {
     position: fixed;
-    bottom: 0px;
-    right: 0;
-    max-height: 650px;
+    bottom: -40px;
+    right: -80px;
+    max-height: 700px;
 
+}
+
+.portfolio {
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
