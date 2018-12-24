@@ -68,18 +68,32 @@ ul {
 }
 
 p, ul {
-font-family: 'Questrial', Arial, sans-serif;
+font-family: 'Saira', Arial, sans-serif;
 font-weight:normal;
 font-style:normal;
-font-size: 1em;
+font-size: 1.1em;
 line-height: 1.4em;
 }
 
-h4 {
-font-family: 'Questrial', Arial, sans-serif;
+ul{
+    margin-bottom: 40px;
+}
+
+a, a:visited {
+    color: #333333;
+}
+
+a:hover {
+    color: #F95659;
+}
+
+h3 {
+font-family: 'Saira', Arial, sans-serif;
 font-weight: bold;
 font-style:normal;
-font-size: 1em;
+font-size: 1.4em;
+line-height: .6em;
+margin-top: 40px;
 }
 
 .body_container {
