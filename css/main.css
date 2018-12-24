@@ -95,7 +95,7 @@ font-size: 1em;
 }
 
 .fixed_image img {
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     right: 0;
     max-height: 650px;
